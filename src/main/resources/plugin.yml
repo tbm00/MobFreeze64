@@ -1,0 +1,14 @@
+name: MobFreeze64
+version: ${project.version}
+description: ${project.description}
+author: tbm00
+main: dev.tbm00.spigot.mobfreeze64.MobFreeze64
+api-version: 1.17
+depend: []
+permissions:
+  mobfreeze64.freeze:
+    description: Ability to freeze/unfreeze mobs
+    default: op
+  mobfreeze64.godmode:
+    description: Ability to make mobs invincible
+    default: op

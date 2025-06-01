@@ -1,0 +1,10 @@
+# MobFreeze64 v0.1.0-beta by @tbm00
+# https://github.com/tbm00/MobFreeze64
+
+enabled: true
+
+lang:
+  prefix: "&8[&fBlank&8] &7"
+
+feature:
+  enabled: true
